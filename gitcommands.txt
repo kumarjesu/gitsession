@@ -6,3 +6,5 @@ git pull
 git checkout
 git merge
 git status
+git config
+git stash
